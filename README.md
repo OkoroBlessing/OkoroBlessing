@@ -21,7 +21,7 @@ I moved from Mechanical Engineering to AI, so I have designed both physical mach
 ```
 ## Projects
 
-**[Bank Churn & Retention Cost Analysis](repo-link)**
+**[Bank Churn & Retention Cost Analysis](https://github.com/OkoroBlessing/bank-churn-rentention-analysis.git)**
 Machine learning churn model with cost-optimised decision thresholds. 88% recall, 82% projected cost reduction. Python, scikit-learn.
 
 **[Tech Layoffs Analysis](repo-link)**
