@@ -13,7 +13,7 @@ Machine learning projects with real-world impact, from predictive modelling to a
 Churn modelling, cst-sensitive classification, SQL window functions, and explaining model decisions to non-technical stakeholders.
 
 **How to reach me**
-blessingnkayy@gmail.com | [LinkedIn](www.linkedin.com/in/okoroblessingn/)
+blessingnkayy@gmail.com | [LinkedIn](https://www.linkedin.com/in/okoroblessingn/)
 
 **Fun fact**
 I moved from Mechanical Engineering to AI, so I have designed both physical machines and models.
