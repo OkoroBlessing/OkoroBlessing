@@ -1,6 +1,7 @@
 # Blessing Okoro
 
-**AI Engineer | MSc Artificial Intelligence (Distinction) | Machine Learning · Python · SQL · Power BI**
+**Data science| Data Analyst| AI Engineer | MSc Artificial Intelligence (Distinction)**
+**Machine Learning · Python · SQL · Power BI**
 
 **I'm currently working on**
 
